@@ -4,3 +4,7 @@
 
 ![image](https://github.com/rashmi0007/PizzaSales_Report/assets/87612040/fb9e4bf1-991f-48fc-a057-7d4852074e05)
 
+![image](https://github.com/rashmi0007/PizzaSales_Report/assets/87612040/187e5c5d-8ef8-4eeb-b1d3-f9c0c8e909dd)
+
+![image](https://github.com/rashmi0007/PizzaSales_Report/assets/87612040/d7e37ec1-4d02-4b9c-9b7c-f1b0eae1202f)
+
