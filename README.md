@@ -11,12 +11,12 @@ The objective of this project is to conduct a thorough examination of the pizza 
 5. Average Pizzas per Order
 
 ### Informative Charts
-Percentage of Sales by Pizza Category
-Percentage of Sales by Pizza size
-Weekly trend for total orders
-Hour trend for Total Pizza's sold
-Top 5 best sold Pizzas
-Bottom 5 least sold pizzas
+1. Percentage of Sales by Pizza Category
+2. Percentage of Sales by Pizza size
+3. Weekly trend for total orders
+4. Hour trend for Total Pizza's sold
+5. Top 5 best sold Pizzas
+6. Bottom 5 least sold pizzas
 
 ![image](https://github.com/rashmi0007/PizzaSales_Report/assets/87612040/1960d2dc-af55-4476-bf6e-75ee0673a5ef)
 
