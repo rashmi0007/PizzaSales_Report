@@ -36,4 +36,4 @@ The following SQL queries were used to obtain insights from the dataset:
 3. The Classic Deluxe Pizza is the top selling pizza where as The Brie Carre Pizza is least selling.
 
 ## Report Validation:
-Report testing([test_report](https://github.com/rashmi0007/PizzaSales_Report/blob/main/Tableau_report_Testing_in_SQL.pdf)) was done using SQL query to validate the data that were displayed in tableau.
+Report testing([test_report](https://github.com/rashmi0007/PizzaSales_Report/blob/main/Tableau_report_Testing_in_SQL.pdf)) was done using SQL query to validate the data that were displayed in tableau and the values were displaying as expected.
