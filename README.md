@@ -29,3 +29,11 @@ The following SQL queries were used to obtain insights from the dataset:
 3. Average Revenue Generated: SQL query calculated the average revenue generated per pizza.
 4. Total Number of Pizzas Sold: SQL query calculated the Total Number of Pizzas Sold.
 5. Average Pizzas per order: SQL query calculated the Average Pizzas per order.
+
+## Insights derived from the data:
+1. Classic is most selling category where as chicken is less selling category.
+2. Customer are prefer L size of pizza most.
+3. The Classic Deluxe Pizza is the top selling pizza where as The Brie Carre Pizza is least selling.
+
+## Report Validation:
+Report testing (test_report)[https://github.com/rashmi0007/PizzaSales_Report/blob/main/Tableau_report_Testing_in_SQL.pdf] was done using SQL query to validate the data that were displayed in tableau.
