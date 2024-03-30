@@ -1,4 +1,4 @@
-# Pizza_Sales_Report
+# Pizza Sales Report
 ## About Project: 
 The objective of this project is to conduct a thorough examination of the pizza sales data, utilizing PostgreSQL for data processing and Tableau for data presentation.
 [Dataset](https://github.com/rashmi0007/PizzaSales_Report/blob/main/Files/Data/pizza_sales_dataset.csv)- "Pizza_sales_dataset.csv," contains information about pizzas, orders, and sales.
